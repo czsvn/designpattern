@@ -1,0 +1,6 @@
+/vendor/
+.swp
+composer.lock
+/coverage/
+.phpunit.result.cache
+.phar

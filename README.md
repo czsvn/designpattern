@@ -4,6 +4,7 @@
 - 产品名称: designpattern
 - 项目代号: designpattern
 - 官方地址: [Github项目地址《设计模式》](https://github.com/czsvn/designpattern.git)
+- 参考地址: [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 ### 看懂UML类图和时序图
 

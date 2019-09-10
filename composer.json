@@ -1,0 +1,26 @@
+{
+    "name": "marscore/design-pattern-php",
+    "discription": "learn about php design pattern",
+    "keywords": ["design", "pattern"],
+    "type": "project",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.3",
+        "squizlabs/php_codesniffer": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "真 陈",
+            "email": "604678026@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/DesignPattern"
+        },
+        "files": ["src/DesignPattern/functions.php"]
+    }
+}

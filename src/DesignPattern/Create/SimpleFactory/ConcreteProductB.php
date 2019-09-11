@@ -8,7 +8,6 @@ class ConcreteProductB implements Product
 
     public function use()
     {
-        
         return 'product b';
     }
 }

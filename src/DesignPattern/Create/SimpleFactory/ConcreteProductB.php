@@ -4,10 +4,10 @@ namespace DesignPattern\Create\SimpleFactory;
 
 class ConcreteProductB implements Product
 {
-	protected $name = 'B';
+    protected $name = 'B';
 
-	public function use()
-	{
-		return 'product b';
-	}
+    public function use()
+    {
+        return 'product b';
+    }
 }

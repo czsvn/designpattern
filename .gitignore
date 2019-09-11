@@ -4,3 +4,4 @@ composer.lock
 /coverage/
 .phpunit.result.cache
 .phar
+coverage.clover
